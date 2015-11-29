@@ -1,0 +1,41 @@
+﻿
+#topwrapper {
+	
+height:75px;
+width:1300px;
+background-color:#00FFFF;
+}
+
+.center {
+
+position: relative;
+left: 500px;
+
+}
+	
+
+#midwrapper {}
+
+
+#featured-news {
+	
+	height:400px;
+	width:790px;
+	background-color:red;
+	float:right;
+}	
+	
+#recommended {
+	
+	height: 500px;
+	width:200px;
+	float:right;
+background-color:green;}
+
+#thought-leaders {
+
+	height:300px;
+	width:250px;
+	float:left;
+	background-color:blue;
+}
